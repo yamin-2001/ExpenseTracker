@@ -1,0 +1,4 @@
+node_modules/
+.env
+Expense_Tracker__antigravity.zip
+.DS_Store

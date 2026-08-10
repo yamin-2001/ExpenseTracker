@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#3730A3" />
+    </linearGradient>
+  </defs>
+  <!-- Wallet base -->
+  <rect x="10" y="30" width="80" height="55" rx="8" fill="url(#bg)" />
+  <path d="M10 40 Q50 60 90 40 L90 38 Q50 58 10 38 Z" fill="#818CF8" opacity="0.5"/>
+  
+  <!-- Coin -->
+  <circle cx="70" cy="30" r="22" fill="#10B981" />
+  <circle cx="70" cy="30" r="16" fill="none" stroke="#D1FAE5" stroke-width="2" />
+  <text x="70" y="40" font-family="Arial, sans-serif" font-weight="900" font-size="28" fill="#D1FAE5" text-anchor="middle">$</text>
+  
+  <!-- Chart -->
+  <path d="M 20 65 L 35 45 L 45 55 L 60 35" fill="none" stroke="#34D399" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <polygon points="65,30 65,42 53,35" fill="#34D399" />
+</svg>
