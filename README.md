@@ -2,6 +2,7 @@
 
 This is a full-stack expense tracker built with Node.js, Express, MongoDB, and React. It allows users to register, log in, and manage their personal income and expenses.
 
+🚀 **Live Demo**: [https://expense-tracker-cyan-omega-70.vercel.app/](https://expense-tracker-cyan-omega-70.vercel.app/)
 ## Project Overview
 
 - **Backend**: RESTful API using Node.js, Express.js, and MongoDB (via Mongoose).
